@@ -1,2 +1,2 @@
 # remote-credentials
-CRedentials for various remote services
+Credentials for various remote services
